@@ -5,4 +5,8 @@ Project's Title: Startup Success Prediction model.
 
 This project used supervised machine learning to predict the success of startup companies based on various features that play a role in the success/failure of a startup.
 
+<<<<<<< HEAD
 Source Data:https://www.kaggle.com/datasets/manishkc06/startup-success-prediction/data
+=======
+Source Data:https://www.kaggle.com/datasets/manishkc06/startup-success-prediction/data 
+>>>>>>> 22210418672520f8fbcfdcd6832041bbf36121e0
